@@ -1,0 +1,34 @@
+{
+  "location": "Remote",
+  "jobTitles": [
+    "SOC Analyst",
+    "Cyber Security Analyst",
+    "Information Security Analyst",
+    "Incident Response Analyst",
+    "Threat Hunter",
+    "Detection Engineer",
+    "SIEM Engineer",
+    "Security Automation Engineer",
+    "Threat Intelligence Analyst",
+    "DFIR Analyst"
+  ],
+  "keywords": [
+    "Security Operations Center",
+    "SIEM",
+    "Elastic SIEM",
+    "Splunk",
+    "QRadar",
+    "LogRhythm",
+    "Incident Response",
+    "Threat Hunting",
+    "Detection Engineering",
+    "DFIR",
+    "Digital Forensics",
+    "Malware Analysis",
+    "YARA",
+    "Threat Intelligence",
+    "Vulnerability Assessment",
+    "Security Automation Python",
+    "Blue Team"
+  ]
+}
